@@ -1,3 +1,5 @@
+package stack;
+
 /**
  * Uso: Stack genérico.
  * @param <T> tipo de dato almacenado
